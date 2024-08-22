@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exam Generator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Exam Generator</h1>
+        <form name="myForm" action="/generate_exam" method="POST" onsubmit="return validateForm()">
+            <label for="num_questions">Number of Questions:</label>
+            <input type="number" id="num_questions" name="num_questions" required>
+            <button type="submit" id="myButton">Generate Exam</button>
+            <p id="message"></p>
+        </form>
+        
+        <form action="/generate_exam_from_failed" method="POST">
+            <button type="submit">Generate Exam from Failed Questions</button>
+        </form>
+        
+        <div id="myDiv">This div will rotate when you click the button</div>
+    </div>
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
+

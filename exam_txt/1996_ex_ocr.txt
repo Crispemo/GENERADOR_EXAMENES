@@ -1,0 +1,631 @@
+PRUEBAS SELECTIVAS 1996 
+1. Cual es el rango de la serie: 3, 7, 9, 2, 11, 9, 2, 12, 16, 9, 5, 14, 9, 7, 4, 2, 9 que representa los meses de edad de una muestra de niños: 
+1. 2. 
+2. 7. 
+3. 9. 
+4. 14. 
+5. 16. 
+2. Una enfermera obtiene en un estudio que el grado de seguimiento en un programa para la hipertensión, es desigual entre varones y mujeres. Cual de los siguientes resultados le indicara que la diferencia es significativa: 
+1. Varianza de ambos grupos igual. 
+2. Varianza mayor en el grupo de media mas alta. 
+3. Varianza menor en el grupo de media mas baja. 
+4. Nivel de probabilidad p  0.03. 
+5. Nivel de probabilidad p  0.30. 
+3. La falta de vitamina B,, C y A originan, respectivamente: 
+1. Beriberi, raquitismo y ceguera nocturna. 
+2. Pelagra, escorbuto y raquitismo. 
+3. Beriberi, escorbuto y ceguera nocturna. 
+4. Pelagra, escorbuto y ceguera nocturna. 
+5. Pelagra, raquitismo y escorbuto. 
+4. Señale qué tres sustancias derivan del colesterol: 
+1. Sales biliares, hormonas esteroideas y jugo pancreatico. 
+2. Hormonas esteroideas, jugo pancreatico y vitamina D. 
+3. Sales biliares, jugo gastrico y vitamina D. 
+4. Jugo pancreatico, jugo gastrico y hormonas esteroideas. 
+5. Sales biliares, vitamina D y hormonas esteroideas. 
+5. Qué combustibles metabólicos utiliza el cerebro de un adulto sano en estado alimentado: 
+1. Glucidos. 
+2. Proteinas. 
+3. Lipidos. 
+4. Glucidos y lipidos. 
+5. Glucidos, lipidos y proteinas. 
+6. El cristalino es un ejemplo natural de: 
+1. Lente bicéncava y por tanto convergente. 
+2. Lente biconvexa y por tanto convergente. 
+3. Lente bicéncava y por tanto divergente. 
+4. Lente biconvexa y por tanto divergente. 
+5. Lente céncavoconvexa y por tanto neutra. 
+7. Ante un paciente con dificultad de deglucion al que se le debe administrar medicacion por via oral, es una practica INCORRECTA: 
+1. Triturar un comprimido. 
+2. Fraccionar un comprimido. 
+3. Machacar una gragea. 
+4. Disolver el comprimido. 
+5. Utilizar preparado idéntico de menor tamaño. 
+8. La extravasacion de antineoplasicos citotóxicos debe conducirle a suspender su administracion y: 
+1. Avisar al médico y masajear suavemente la zona afectada con una pomada de corticoides. 
+2. Administrar suero fisiológico a temperatura ambiente por la misma via cuanto antes y avisar. 
+3. Poner hielo en la zona y avisar al médico. 
+4. Poner la extremidad afectada en declive y avisar. 
+5. Poner calor local suave sobre la zona para aliviar el dolor y avisar. 
+10. Cuando se administra nitroprusiato en infusi6n continua se debe: 
+1. Sustituir cada 24 horas. 
+2. Calentar al paciente previamente. 
+3. Prepararlo en solución hipertonica. 
+4. Protegerlo de la luz. 
+5. Perfundirlo con un filtro de microparticulas. 
+11. Cuando un paciente esta en tratamiento con fenotiazinas hay que recomendarle que: 
+1. Reduzca las grasas en la comida. 
+2. Aumente significativamente la ingesta de agua. 
+3. No conduzca ni maneje máquinas, al menos en la primera fase. 
+4. Salga siempre acompañado a la calle y adoptando medidas de seguridad extremas. 
+5. Aumente el ejercicio fisico diario. 
+12. Señale cual de los siguientes factores predispone a la intoxicacion por digital: 
+1. Hipopotasemia. 
+2. Hiperpotasemia. 
+3. Hiponatremia. 
+4. Hipematremia. 
+5. Hiperalbuminemia. 
+13. Señale cual de las siguientes proposiciones sobre las vitaminas es cierta: 
+1. El suplemento de vitaminas es bueno cuando existe cualquier patologia. 
+2. Siempre es bueno tomar un complejo vitaminico pues es inocuo y abre el apetito. 
+3. Sólo debe tomarse suplemento vitaminico cuando ya existen datos analiticos que demuestran estado carencial. 
+4. Algunas vitaminas pueden producir intoxicaciones importantes, sobre todo en niños, si se consumen en exceso. 
+5. Todas las vitaminas cuando se consumen en exceso se eliminan a través del riñón. 
+15. El electrolito osmoticamente activo mas importante del espacio extracelular es: 
+1. El potasio. 
+2. El magnesio. 
+3. El cloro. 
+4. El calcio. 
+5. El sodio. 
+16. Si una persona sufre una lesión muscular que le incapacita para realizar movimientos de anteversion, retroversion y abduccion del brazo, el musculo afectado sera: 
+1. Subclavio. 
+2. Serrato Mayor. 
+3. Deltoides. 
+4. Triceps braquial. 
+5. Semitendinoso. 
+17. Un paciente que tiene poliuria por reduccion de la secreción de ADH, tendra disfuncion de: 
+1. Corteza suprarrenal. 
+2. Hipofisis anterior. 
+3. Médula suprarrenal. 
+4. Tiroides. 
+5. Hipofisis posterior. 
+18. El gasto cardiaco se incrementa fisiológicamente con: 
+1. El reposo. 
+2. El shock. 
+3. El ejercicio fisico. 
+4. El sueño. 
+5. La bradicardia. 
+19. El órgano que se relaciona en mayor medida con la respuesta inmunitaria y el rechazo o no de tejidos u organos en caso de trasplantes es: 
+1. El bazo. 
+2. El timo. 
+3. El higado. 
+4. El cerebelo. 
+5. El tiroides. 
+20. Cuando una persona hiperventila por una crisis ansiosa, cual de las siguientes situaciones puede producirse: 
+1. Alcalosis. 
+2. Acidosis. 
+3. Hipoxia moderada. 
+4. Retencidn de hidrogeniones. 
+5. Hipercapnia. 
+21. Cual de los siguientes alimentos NO es recomendable en un paciente con estreñimiento: 
+1. Pan integral. 
+2. Purés de leguminosas. 
+3. Ciruelas. 
+4. Zanahorias. 
+5. Salvado de trigo. 
+22. De los siguientes alimentos cuales contienen proteinas de alto valor bioldgico: 
+1. Aceite de oliva y harina de trigo. 
+2. Carne de ternera y huevo. 
+3. Mantequilla y nata. 
+4. Naranjas y espinacas. 
+5. Cereales y legumbres. 
+23. Respecto a la valoración del estado nutricional de una persona, señale cual de las siguientes proposiciones es cierta: 
+1. La talla y el peso nos serviran como indicador en personas con edemas. 
+2. El pliegue tricipital nos estima las reservas de proteinas. 
+3. El perimetro muscular del brazo es una medida directa de las reservas de grasa. 
+4. El perimetro muscular del brazo es una medida indirecta de las reservas de proteinas. 
+5. Las medidas antropométricas no son utiles en la valoracion del estado nutricional. 
+24. De los siguientes cereales cual esta permitido en un paciente celiaco: 
+1. Arroz. 
+2. Trigo. 
+3. Avena. 
+4. Centeno. 
+5. Cebada. 
+25. Cuando fallece un enfermo de fe Islamica, una enfermera debera tener en cuenta que el cadaver: 
+1. No puede ser incinerado. 
+2. No puede utilizarse como fuente de donación de órganos. 
+3. Debe ser trasladado a un espacio abierto antes de 12 horas. 
+4. Sólo pueden tocarlo parientes y familiares. 
+5. No puede ser manipulado por mujeres, si es de un varon. 
+26. Un paciente encamado tiende a realizar maniobra de Valsalva en los cambios de postura y al incorporarse. Para evitarlo se le explicara: 
+1. Que no contenga la respiración antes y durante el movimiento. 
+2. Que contenga la respiración mientras realiza el esfuerzo. 
+3. Que inspire profundamente antes de iniciar el movimiento. 
+4. Que no realice la espiracion durante el esfuerzo. 
+5. Que no hable mientras se mueve. 
+27. Las técnicas mas relevantes para apoyar a una persona en situación de pérdida o duelo son: 
+1. Interpretar y analizar sus mensajes. 
+2. Dar consejos y aliento. 
+3. Escuchar, parafrasear y resumir. 
+4. Dar consejos y evaluar, pero no dar aliento si no esta fundamentado. 
+5. No permitir mensajes negativos y dar aliento. 
+28. Si un paciente sufre insomnio y se identifica la ansiedad como factor fundamental, su patron de sueño se vera modificado con: 
+1. Incremento de sueños no REM y alargamiento de las etapas I, Il y Ill. 
+2. Mayor numero de cambios de etapa y vigilias, con menor numero de etapas IV. 
+3. Insomnio de principio de la noche, sin afectacion de las fases subsiguientes. 
+4. Acortamiento de las fases , Il y Ill, e incremento del numero y duracion de la fase IV. 
+5. Despertar precoz sin afectación del numero y duración de las etapas. 
+29. Para adaptar las muletas a la altura del paciente, hay que tener en cuenta que la posicion correcta de los asideros para manos se determina comprobando: 
+1. Que los hombros no se inclinen hacia adelante. 
+2. La posicién de la muñeca en angulo recto respecto al antebrazo. 
+3. Simplemente la comodidad del paciente. 
+4. El angulo de flexion del codo a unos 30. 
+5. El angulo de flexión de la muñeca a unos 30. 
+31. Si una enfermera esta valorando en un paciente cómo se ha adaptado a una colostomia a través de las percepciones que éste tiene sobre su yo fisico y su yo personal, estaria emplenado el modelo de enfermeria de: 
+1. Roy. 
+2. Henderson. 
+3. Peplau. 
+4. Jhonson. 
+5. Maslow. 
+32. De acuerdo al modelo de Virginia Henderson, los Cuidados Basicos son aquellos que: 
+1. Realiza cualquier persona, pues no requieren de conocimientos ni habilidades especiales. 
+2. Realizan las personas por si mismas si poseen las capacidades requeridas. 
+3. Resultan sencillos y elementales. 
+4. Llevan a cabo las enfermeras en cumplimiento de su función propia. 
+5. Resultan esenciales para conservar la salud. 
+33. La escala de valoracion de Norton para la prediccion y prevencion de ulceras por presion, considera la puntuacion de los siguientes factores de riesgo: 
+1. Nutrición, inmovilidad, edad y nivel de conciencia. 
+2. Nutrición, movilidad, estado mental y factores variables. 
+3. Estado fisico general, movilidad, estado mental, actividad e incontinencia. 
+4. Nutrición, hidratacion, estado mental y estado de la piel. 
+5. Nutrición, apoyo y fricción, estado mental e hidratacion. 
+34. El método en Z para la administracion de inyecciones intramusculares se recomienda: 
+1. En pacientes con masa muscular insuficiente. 
+2. Con medicamentos en los que es muy importante su total absorción. 
+3. En lactantes, para reducir el dolor. 
+4. Para impedir la entrada de aire. 
+5. En los fármacos muy irritantes del tejido subcutáneo. 
+35. Cuando el manguito para medir la presion arterial P.A. se coloca excesivamente flojo, la lectura resultante sera: 
+1. Falsamente alta. 
+2. Sistólica falsamente alta y diastolica falsamente baja. 
+3. Sistólica falsamente baja y diastodlica falsamente alta. 
+4. Falsamente baja. 
+5. Sistólica no afectada y diastolica falsamente baja. 
+36. Las variaciones medias de la temperatura corporal segun la localizacion del punto de medición son: 
+1. Rectal 1 Cla axilar y 1 C la oral. 
+2. Oral 0,5 C  rectal y 0,5 C la axilar. 
+3. Axilar 0,5 C  oral y 0,5 C  la rectal. 
+4. Rectal 0,5 C  oral y 1 C  la axilar. 
+5. Oral 0,5 C  axilar y 1C rectal. 
+37. La diferencia fundamental entre los diagnosticos enfermeros y los problemas interdependientes es que: 
+1. Para los primeros la enfermera es responsable y para los segundos no. 
+2. Los diagnósticos enfermeros son secundarios, mientras que los problemas interdependientes son los principales. 
+3. La enfermera toma decisiones independientes en ambos tipos de problemas, pero en el primer caso es la Unica responsable y en el segundo comparte la responsabilidad. 
+4. El médico es el unico responsable para problemas interdependientes, mientras que comparte responsabilidad con la enfermera en los diagnósticos enfermeros. 
+5. Los problemas interdependientes son los principales y los diagnósticos enfermeros son siempre secundarios. 
+38. La primera y mas significativa Orden religiosa que se dedico a los cuidados de enfermeria en España 1538 fue: 
+1. Los Hermanos Hospitalarios de San Juan. 
+2. Las Hijas de la Caridad. 
+3. Las Beguinas. 
+4. Los Hermanos de San Juan de Dios. 
+5. Las Hermanas de la Merced. 
+39. Se considera que la primera mujer en concebir la Enfermeria como un arte diferenciado del servicio a los pobres fue: 
+1. Florence Nightingale. 
+2. Santa Isabel de Hungria. 
+3. La romana Paula. 
+4. Anna Hamilton. 
+5. Nancy Roper. 
+40. La primera organización protestante para el servicio de enfermeria fue: 
+1. La Fundacion Nightingale. 
+2. La Fundacion J. Henrri Dunant. 
+3. El instituto de Diaconisas de Kaiserwerth. 
+4. La Fundacion Elizaberth Fry. 
+5. El instituto Sir Sidney Herberth. 
+41. En la reeducacién vesical a un paciente, es importante: 
+1. Fijarle cantidades de orina como objetivo que debera cumplir obligatoriamente. 
+2. Evitar proponerle un patrén miccional horario. 
+3. Procurar que ingiera menos de 1.000 midia de liquido. 
+4. Animarle a que miccione sin levantarse de la cama aunque pudiera hacerlo. 
+5. Insistirle en que debe intentar vaciar completamente la vejiga. 
+43. Los problemas que un paciente diabético puede tener al no cambiar el lugar de inyeccion de la insulina, estan producidos por su accion sobre: 
+1. Los hidratos de carbono. 
+2. Los lipidos. 
+3. Las proteinas. 
+4. El agua. 
+5. Los oligoelementos. 
+44. Qué raices nerviosas se exploran al estudiar el reflejo rotuliano: 
+1.D1 a D65. 
+2.D5 a D8. 
+3.D9 a L1. 
+4.L2 a L4. 
+5.L5 a S3. 
+45. En un paciente con asma intrinseca esta contraindicado administrar: 
+1. Alfabloqueantes. 
+2. Antibidticos. 
+3. Aspirina. 
+4. Antifngicos. 
+5. Corticoides. 
+46. Cuando un profesional de enfermeria colabora en realizar labores de triage en una catastrofe, qué trabajo esta realizando: 
+1. Primeros auxilios. 
+2. Atención a situaciones que pueden comprometer la vida. 
+3. Clasificación de afectados. 
+4. Transporte urgente de afectados con compromiso vital. 
+5. Hacer seguro el lugar del siniestro. 
+47. Cual seria el problema de enfermeria MENOS frecuente en un paciente con hipertiroidismo: 
+1. Hiperexcitabilidad e irritabilidad. 
+2. Alteración de autoestima por exoftalmia. 
+3. Intolerancia al calor. 
+4. Ansiedad y alteración nutricional. 
+5. Anorexia. 
+48. Cuando una enfermera emplea el método auscultatorio de Korotkoff para medir la presión arterial en un adulto, sabra que la tension arterial diastólica se define habitualmente por la fase: 
+1. 3. 
+2. 4. 
+3. 5. 
+4. 6. 
+5. 7. 
+49. señale cual de las siguientes proposiciones es cierta respecto a la cardioversion y la desfibrilacion: 
+1. Ambas suelen necesitar la misma energia de descarga. 
+2. Ninguna necesita sincronizacién con el ciclo cardiaco. 
+3. Ninguna necesita sedacion. 
+4. Ninguna tiene cierto compas de espera. 
+5. Ambas deben repetirse si fracasan. 
+50. Qué electrodo o electrodos debe revisar una enfermera que realiza un electrocardiograma por el sistema convencional y obtiene Un trazado adecuado en Il y artefactado en 1 y III: 
+1. Los de los brazos izquierdo y derecho. 
+2. Los del brazo izquierdo y pierna izquierda. 
+3. Los del brazo derecho y pierna izquierda. 
+4. El del brazo derecho. 
+5. El del brazo izquierdo. 
+51. Qué tipo de fluido cabe esperar que salga de una cecostomia realizada en un paciente: 
+1. Firme y sólido. 
+2. Deposicién formada. 
+3. Deposicién disgregada. 
+4. Semiliquido. 
+5. Liquido. 
+52. De los siguientes órganos, cual posee mayor radiosensibilidad: 
+1. Piel. 
+2. Médula ósea. 
+3. Vagina. 
+4. Cristalino. 
+5. Encéfalo. 
+53. Las siguientes caracteristicas del Herpes simple son ciertas, EXCEPTO que: 
+1. Aparecen vesiculas sobre bases eritematosas. 
+2. Las vesiculas evolucionan a pustulas. 
+3. Las lesiones provocan picor y dolor. 
+4. Las lesiones suelen seguir la trayectoria de un nervio. 
+5. Puede provocar necrosis. 
+54. Ante una infeccion local en el punto de inserción de un catéter para nutricion parenteral, la actitud mas conveniente sera: 
+1. Aplicar pomada antibiótica. 
+2. Limpiar con solución antiséptica cada 6 horas. 
+3. Tomar cultivo y esperar a los resultados. 
+4. Retirar catéter y cambiar la via completa. 
+5. Lavar catéter con solución fisiológica cada 6 horas. 
+55. En la educacion para la salud a un paciente con enfermedad oclusiva de las extremidades inferiores, señale cual de las siguientes es la recomendacion MENOS adecuada: 
+1. Evitar el frio. 
+2. Aplicar calor en abdomen. 
+3. Dormir con los pies elevados unos 15 cm sobre la cabeza. 
+4. Aplicar crema hidratante. 
+5. Realizar ejercicios activos y pasivos suaves. 
+56. Señale la propuesta cierta sobre el sistema de drenaje toraxico con camara de sello hidraulico PleurEvac R: 
+1. Posee sólo una salida externa, que se comunica a la cavidad pleural. 
+2. La camara de recoleccién es la mas cercana a la fuente de vacio. 
+3. La camara de sello hidraulico permite reentrada de aire cuando éste salga excesivamente rapido. 
+4. El aire extraido, al ser transparente, no se puede visualizar. 
+5. Si aumenta la aspiracién por encima del nivel marcado en la camara de control, entra aire atmosférico compensatorio. 
+57. En qué esta recomendada una irrigacion del oido: 
+1. Perforacién timpanica. 
+2. Presencia de cuerpo extrafio vegetal. 
+3. Presencia de insecto como cuerpo extrafio. 
+4. Presencia de exudado reciente y abundante. 
+5. Presencia de cuerpo extrafio que pueda aumentar de tamaño con la humedad. 
+58. El asma bronquial se caracteriza por: 
+1. Broncoespasmo e hiposecrecion bronquial. 
+2. Broncodilatación reactiva y edema de mucosa. 
+3. Broncoespasmo e hipersecreción bronquial. 
+4. Edema de mucosa e hiposecreción bronquial. 
+5. Broncodilatación reactiva, edema bronquiolar e hipersecrecién bronquial. 
+59. En los cuidados de enfermeria a un paciente anciano con crisis confusional aguda, señale cual seria la conducta mas adecuada: 
+1. Usar correas de sujecion. 
+2. Mantener una via venosa. 
+3. Efectuar sondaje vesical. 
+4. Evitar el cambio de habitacion. 
+5. Oscurecer la habitacion. 
+60. Cuando se realiza el seguimiento de un paciente en tratamiento con levodopa se le debe aconsejar que: 
+1. Reduzca la actividad fisica. 
+2. Incremente la ingesta de proteinas. 
+3. La tome al menos 30 minutos antes de la comida. 
+4. La ingiera con una pequeña cantidad de liquido. 
+5. La tome con un vaso de leche. 
+61. Para comunicarse con un anciano con presblacusla es una técnica correcta: 
+1. Usar el contacto fisico. 
+2. Elevar el tono de voz junto al oido. 
+3. Abreviar las frases, dando palabras clave. 
+4. Situarse delante de una fuente de luz. 
+5. Pronunciar de forma exagerada. 
+62. Cuando un anciano obtiene una puntuación 25 en el test MINIMENTAL STATE de Foistein, significa que esta: 
+1. Iniciando una demencia. 
+2. Rigurosamente normal. 
+3. Con alteraciones significativas de memoria. 
+4. Con alteraciones significativas de lenguaje. 
+5. Con demencia en fase avanzada. 
+63. Un anciano de 73 años informa que en su dieta habitual suele consumir dos vasos de leche, un huevo y una ración de carne en dias alternos. De acuerdo a esto, usted le recomendara: 
+1. Reducir el consumo de proteinas animales e incrementar las vegetales. 
+2. Incrementar el consumo de proteinas animales tomando al menos una ración de carne diaria. 
+3. Incrementar el consumo global de proteinas. 
+4. Reducir el consumo global de proteinas. 
+5. Mantener el consumo diario de proteinas. 
+64. En el cuidado de un anciano en tratamiento con espironolactona Aldactone R se debe prestar especial atencion a la aparicion de: 
+1. Hiperpotasemia. 
+2. Hipopotasemia. 
+3. Hiponatremia. 
+4. Hipermagnesemia. 
+5. Hipercalcemia. 
+65. Cual de las siguientes caracteristicas es MENOS frecuente en una joven con anorexia nerviosa: 
+1. Amenorrea. 
+2. Tendencia a la hipoactividad. 
+3. Tendencia a ocultar alimentos. 
+4. Autoaplicacion de laxantes. 
+5. Autoinduccién al vomito. 
+66. El llamado efecto Antabts, se busca en el tratamiento de los alcohdlicos para: 
+1. Sustituir el alcohol sin producir daño. 
+2. Evitar el delirium tremens. 
+3. Provocar la aversion al alcohol. 
+4. Evitar que se cambie el alcohol por otra droga. 
+5. Evitar el efecto rebote neurodepresor del alcohol. 
+67. En el lenguaje cientifico, se entiende por personalidad: 
+1. La forma de enfocar la actividad humana observable por otros. 
+2. Las caracteristicas psiquicas de un individuo. 
+3. Las técnicas y medios de adaptacion de un individuo ante diversas situaciones. 
+4. El perfil conductual y de inteligencia de cada individuo. 
+5. Las manifestaciones que caracterizan al ego y lo diferencian del ello en cada individuo. 
+68. Señale lo cierto referente a la psicosis maniaco depresiva: 
+1. El factor desencadenante se debe siempre a una pérdida real. 
+2. El factor desencadenante se debe siempre a un factor endégeno. 
+3. Si se produce un episodio, es seguro que habra recaidas. 
+4. El promedio de las crisis maniacas es de uno por afio. 
+5. Los episodios depresivos suelen ser mas largos que los maniacos. 
+69. Ante un paciente con tricotilomania, la enfermera debe revisar el estado de: 
+1. Las uñas. 
+2. Los triceps. 
+3. El cabello. 
+4. Las heces. 
+5. Los labios y dientes. 
+70. El concepto de tolerancia a las drogas hace referencia a: 
+1. El aumento de dosis necesario para conseguir el efecto deseado. 
+2. La necesidad de recibir una nueva dosis de droga. 
+3. Que una droga se tolera bien durante un primer periodo. 
+4. El nivel de droga que un organismo tolera sin causarle daño constatable. 
+5. La capacidad para evitar daño que tiene cada organo. 
+72. De acuerdo al Plan Gerontoldégico Nacional de 1993, las politicas de asistencia sanitaria al anciano incluyen: 
+1. Derivar la atención sanitaria del anciano a centros especiales. 
+2. Diferenciar y separar los servicios sanitarios de los servicios puramente sociales. 
+3. Suprimir las Unidades Geriatricas de los hospitales generales progresivamente y derivarlas a hospitales de crónicos. 
+4. Incrementar progresivamente las Unidades de Geriatria hospitalaria. 
+5. Favorecer el ingreso en hospitales de los ancianos terminales. 
+73. La supervision de los servicios de enfermeria se estructura en: 
+1. Observación, coordinación y delegación. 
+2. Valoracion, dirección y control. 
+3. Valoracion, dirección y ejecución. 
+4. Coordinación, comunicacion y direccion. 
+5. Motivacion, dirección y control. 74, Para la extraccion de organos u otras piezas anatomicas de fallecidos, NO seran suficientes los signos de muerte cerebral, aun cumpliendo todos los requisitos de constatacion, concurrencia y persistencia cuando: 
+1. No se haya obtenido la autorización expresa del fallecido previamente. 
+2. No se haya obtenido la autorización expresa de un miembro de la familia mayor de edad y con relación de consanguinidad. 
+3. No se haya obtenido la autorizacion expresa del miembro de la familia mas adecuado en cada caso. 
+4. Se haya realizado hipotermia inducida o administrado drogas depresoras del sistema nervioso central. 
+5. Se hayan administrado medicamentos adrenérgicos una hora antes del momento de la extracción. 
+75. Ingresa una mujer parturienta con V.I.H. positivo. En este caso la matrona y la enfermera: 
+1. Tienen derecho a negarse a asistirla, segun el principio de obligación primaria de justicia. 
+2. No pueden en ningun caso negarse a asistirla, de acuerdo al Código Etico de la profesion. 
+3. No pueden negarse, si no hay personal voluntario para hacerlo. 
+4. Pueden negar su asistencia cuando la vida de la mujer no corra peligro. 
+5. Pueden negar su asistencia, manifestando objecion de conciencia, de acuerdo con la Ley General de Sanidad. 
+76. Se denomina testamento vital a aquel documento que recoge la voluntad del testador de: 
+1. No ser sometido, en caso de enfermedad grave que cause sufrimiento o incapacite, a tratamientos que prolonguen la vida. 
+2. Distribuir sus bienes materiales después de su muerte. 
+3. Ser auxiliado para morir dignamente, en caso de enfermedad grave por medio de medicamentos letales. 
+4. Aceptar cualquier tipo de tratamiento médico o quirurgico mientras exista esperanza de vida. 
+5. Que se cumplan todos sus deseos después de muerto ultimas voluntades. 
+77. Se denomina principio de doble efecto, cuando se lleva a cabo una accion: 
+1. Cuyo efecto puede ser perjudicial o beneficioso, pero el Unico fin que se persigue es la investigacion. 
+2. Para conseguir simultaneamente varios objetivos propuestos. 
+3. Con el fin de conseguir un efecto placebo en el paciente. 
+4. Que causa un daño pero sin presencia de dolo. 
+5. Cuyo efecto inmediato procurado y aceptado es bueno, pero comporta efecto paralelo no deseado, considerado como malo. 
+78. Entre los juegos que recomendaria a los padres de un niño de 4 años con fibrosis quistica para facilitar la eliminación de secreciones, estaria: 
+1. Realizar puzles. 
+2. Hacer juegos de construccion. 
+3. Hacer la carretilla. 
+4. Correr. 
+5. Jugar a la pelota. 
+79. Se deben extremar las medidas de vigilancia y detección de ictericia precoz en un recién nacido cuando se trata del: 
+1. Primer embarazo, la madre es Rh y el neonato Rh. 
+2. Segundo embarazo, madre Rh, neonato Rh. 
+3. Segundo embarazo, madre y neonato Rh. 
+4. Segundo embarazo, madre Rh, neonato Rh. 
+5. Segundo embarazo, padre Rh y neonato Rh. 
+80. Si se desea estimular la aceptacion de un medicamento oral a un niño, lo mas recomendado es mezclarlo con: 
+1. Puré de patata o verdura. 
+2. Leche. 
+3. Yogur. 
+4. Pan. 
+5. Jarabe saborizante o miel. 
+81. Los alimentos que estan especialmente restringidos en la dieta de un niño con Fenilcetonuria son: 
+1. Cereales. 
+2. Carnes. 
+3. Féculas. 
+4. Legumbres. 
+5. Frutas. 
+82. El manguito para medir la presion arterial a un niño debe reunir las siguientes condiciones: 
+1. Que cubra un tercio del brazo, dejando libre la axila y zona antecubital. 
+2. Que cubra la fosa antecubital pero no comprima la axila. 
+3. Que cubra aproximadamente el 75 del brazo, dejando libre la axila y zona antecubital. 
+4. Que cubra el 50 del brazo y lo abarque completamente. 
+5. Que no quede colgado, cubra aproximadamente un tercio del brazo y no comprima. 
+83. Para realizar un test de Apgar a un recién nacido, usted valoraria: 
+1. Frecuencia cardiaca, esfuerzo respiratorio, tono muscular, respuesta a estimulos y coloracion. 
+2. Frecuencia cardiaca, esfuerzo respiratorio, ano imperforado, respuesta a estimulos y coloracion. 
+3. Frecuencia cardiaca, frecuencia respiratoria, presién arterial, respuesta a estimulos y coloracion. 
+4. Frecuencia cardiaca, tono muscular, frecuencia respiratoria, profilaxis de Credé y coloracion. 
+5. Frecuencia cardiaca, esfuerzo respiratorio, atresia de coanas, respuesta a estimulos y coloracion. 
+84. La sutura craneal que carece de importancia en la valoración del feto por estar recubierta de grasa es: 
+1. La sagital. 
+2. La frontal. 
+3. La lamboide. 
+4. La temporal. 
+5. La parietal. 
+85. Las caracteristicas que debe reunir un biberón para la alimentación oral de un recién nacido con labio leporino son: 
+1. Tetina muy blanda y multiperforada. 
+2. Tetina larga, blanda y con orificio grande. 
+3. Tetina con lengüeta y corta. 
+4. Tetina rigida y con orificio muy pequeño. 
+5. Tetina ancha, blanda y con orificio muy pequeño. 
+86. Se denomina cloasma del embarazo a: 
+1. La dificultad respiratoria de la embarazada a partir de la semana numero 30 del embarazo. 
+2. La linea oscura que se dibuja del ombligo al monte de Venus. 
+3. El cambio de pigmentación en los genitales externos de la embarazada. 
+4. Las manchas o zonas irregulares de color café oscuro en la cara de la embarazada. 
+5. El aumento de pigmentación en cara, mamas y abdomen de la embarazada. 
+87. El estilo basico de comunicaci6n mas frecuentemente utilizado por las enfermeras, es un estilo centrado en: 
+1. El paciente. 
+2. La tarea. 
+3. El rol. 
+4. El feedback. 
+5. El entorno. 
+88. Cuales son las fases del procesamiento de la memoria: 
+1. Percepcion, introspeccion y referencia. 
+2. Sensacion, almacenamiento y busqueda. 
+3. Percepcién, almacenamiento y busqueda. 
+4. Percepcion, almacenamiento y recuperacion. 
+5. Codificacién, almacenamiento y recuperacion. 
+89. Señale lo cierto en relación con la teoria de Maslow: 
+1. Hace referencia a las necesidades de salud enfocadas a enfermeria. 
+2. Plantea unas necesidades a cubrir, sin jerarquizacion. 
+3. Plantea que lo principal para un individuo es su autorrealizacion. 
+4. El vértice de su piramide es ocupado por las necesidades fisioldgicas o vitales. 
+5. Las necesidades de conservacién se anteponen a las relativas a las raices personales. 
+90. Como se calcula el coeficiente de inteligencia C.I.: 
+1. Dividiendo la edad mental entre la cronológica. 
+2. Dividiendo la edad mental entre la cronológica y multiplicando por 
+100. 
+3. Dividiendo la edad cronológica entre la mental. 
+4. Dividiendo la edad cronológica entre la mental y multiplicando por 
+100. 
+5. Restando de la cronológica la mental y dividiendo por la mental. 
+91. Cual de las siguientes NQ es una razon para que una enfermera se plantee fijar metas para motivar a un paciente: 
+1. Dirigen la atención a lo que debe realizar. 
+2. Favorecen la atracción por la tarea a realizar. 
+3. Movilizan y estimulan el esfuerzo. 
+4. Aumentan la persistencia hasta que se logran. 
+5. Fomentan el desarrollo de estrategias para mejorar el rendimiento. 
+92. El patrón de conducta que se ha asociado con las enfermedades cardiovasculares se denomina: 
+1. Tipo A. 
+2. Tipo B. 
+3. Tipo C. 
+4. Tipo D. 
+5. Tipo E. 
+93. Segun Freud, la etapa falica abarca desde: 
+1. 02 años. 
+2. 36 años. 
+3. 710 años. 
+4. 1114 años. 
+5. 1518 años. 
+94. La distribución, frecuencia y determinantes de una condicién de salud de la comunidad, corresponde a la fase de: 
+1. Priorizaci6n de actividades. 
+2. Criterios de evaluacion. 
+3. Examen preliminar. 
+4. Diagndéstico comunitario. 
+5. Analisis de problemas y recursos necesarios. 
+95. Los principales factores de riesgo coronario con caracter consistente, gradual e Independiente son: 1.H.T.A., obesidad y sedentarismo. 
+2. Diabetes y dislipemia. 
+3. Hipercolesterolemia y dislipemia. 
+4. Niveles bajos de LDL, colesterol y obesidad. 
+5. H.T.A., tabaquismo e hipercolesterolemia. 
+96. Las funciones minimas que deben desarrollar los servicios de Atencion Primaria de Salud, son: 
+1. Promocién de salud, fomento y programas basicos. 
+2. Tratamiento de problemas crénicos y prevencion. 
+3. Promocién de  salud, recuperacion y rehabilitacion. 
+4. Prevencién, promocién, recuperacién y programas de salud. 
+5. Recuperacion, promocién de autocuidados y asistencia domiciliaria. prevencion, pag. 15 PRUEBAS SELECTIVAS 1996 
+97. señale lo cierto sobre la intolerancia a la glucosa: 
+1. El individuo que la padece no puede tomar ninguna glucosa. 
+2. Es siempre un paso previo a la Diabetes Mellitus. 
+3. El individuo que la padece no absorbe bien la glucosa y su ingesta le produce trastornos de tipo principalmente digestivo. 
+4. Puede evolucionar hacia la normalidad, la Diabetes Mellitus o mantenerse. 
+5. Puede cursar con cifras normales mantenidas de glucemia. 
+98. El concepto de riesgo en epidemiologia expresa: 
+1. La exposicién a medioambientales. 
+2. La probabilidad de desarrollar una enfermedad. 
+3. La interaccién entre el agente causal y el huésped. 
+4. Las manifestaciones prodrémicas. 
+5. El periodo de incubacidn. factores 
+99. Para que la Educacion para la Salud Ileve a la adopcion de actitudes positivas, es necesario: 
+1. Proporcionar informacién de forma constante. 
+2. Introducir en el proceso educativo elementos motivadores. 
+3. Facilitar la comunicaci6n del individuo con el sistema sanitario. 
+4. Una exposici6n a la informacion. 
+5. Adoptar una actitud de firme autoridad. 
+100. señale lo correcto en referencia a las sefalizaciones especiales que a veces se utilizan en las muestras de sangre de las personas con anticuerpos de VIH V1H : 
+1. Deben usarse, pues distinguen con qué pacientes se deben tomar precauciones y con cuales no. 
+2. Deben usarse, pues ayudan a disminuir el numero de pinchazos accidentales. 
+3. No deben usarse, pues vulnera el derecho a la intimidad y confidencialidad del paciente y su presencia o ausencia crean falsa confianza en el profesional de enfermeria. 
+4. No deben usarse, porque aunque es una medida positiva para el profesional de enfermeria, vulnera el derecho a la intimidad y confidencialidad del paciente. 
+5. Son recomendables en general para todas las enfermedades que se pueden transmitir por sangre. 
+101. señale la afirmacion correcta respecto a la nutricidn parenteral: 
+1. La Nutrición parenteral periférica causa siempre flebitis porque las soluciones son hiperténicas. 
+2. El punto de insercién de catéter para nutrici6n debe permanecer cubierto por un aposito estéril y no cambiar a menos que se manche. 
+3. La Nutrición parenteral periférica es mas aconsejable, pues previene la infeccion. 
+4. La hiperglucemia es una complicacién que tiende a cronificarse. 
+5. Para su administracién se deben emplear sistemas en Y. 
+102. El suero salino al 0,45 se utiliza para: 
+1. Rehidratar a cualquier paciente con pérdidas abundantes de liquidos. 
+2. Aumentar la diuresis. pag. 16 PRUEBAS SELECTIVAS 1996 
+3. Tratamiento de sintomaticas. 
+4. Perfundir liquidos. 
+5. Rehidratar a pacientes en coma hiperosmolar no cetdsico. hiponatremias 
+103. Si durante la movilizacién de un paciente se produce espasticidad de un musculo, la pauta que se debe seguir es: 
+1. Aplicar una presidén lenta y firme y parar temporalmente el movimiento. 
+2. Realizar masaje enérgico y aplicar calor humedo. 
+3. No realizar ninguna presión sobre el musculo contraido. 
+4. Aplicar hielo para reducir la espasticidad. 
+5. Realizar inmediatamente la extensién de la articulacién que ha provocado la espasticidad. 
+104. Se cree que el ultimo sentido que se pierde en los pacientes moribundos es: 
+1. La vista. 
+2. El tacto. 
+3. El olfato. 
+4. El gusto. 
+5. El oido. 
+105. Seria una recomendacion adecuada a un paciente que sufre de bruxismo: 
+1. Que reduzca la ingesta de liquidos. 
+2. Que acuda al oftalmdédlogo para su correccion. 
+3. Que pida a su dentista que le haga un molde dental. 
+4. Que reduzca la ingesta calorica. 
+5. Que incremente el ejercicio fisico, pero dirigido por un profesional. 
+106. señale cual de los siguientes asertos sobre la maniobra de Valsalva es cierto: 
+1. Consiste en exhalar aire con la epiglotis abierta. 
+2. Suele realizarse en la defecación dificultosa. 
+3. Se recomienda para favorecer el retorno venoso. 
+4. Disminuye la presion intratoracica. 
+5. Disminuye la presi6n intracraneal. 
+107. El riesgo de padecer sintomas depresivos mayores tras un accidente vascular cerebral es mayor si la lesion afecta a: 
+1. Región occipital. 
+2. Region frontal izquierda. 
+3. Region frontal derecha. 
+4. Region parietal derecha. 
+5. Región temporal. 
+108. La Ley de trasplantes de organos, en su articulo 10, dispone que los órganos para cuyo trasplante se precise viabilidad de los mismos, solo pueden extraerse de la persona fallecida previa comprobacion de muerte cerebral, basada en la constatacion y concurrencia durante 30 minutos, al menos, y la persistencia de los mismos después del comienzo del coma durante: 
+1. Cuatro horas. 
+2. Seis horas. 
+3. Ocho horas. 
+4. Diez horas. 
+5. Veinticuatro horas. 
+109. Un locus de control interno para la salud, significa: 
+1. Mayor conocimiento de la enfermedad padecida. 
+2. Menor adherencia a los regimenes terapéuticos. 
+3. Mayores dificultades para dejar de fumar y perder peso. 
+4. Gran dependencia del personal sanitario. 
+5. Menor predisposición a someterse a revisiones y chequeos. 
+110. Cuando un paciente esta en tratamiento antidepresivo con IMAO inhibidores irreversibles de la monoaminoxidasa, debera suprimir de la dieta alimentos ricos en tiramina como: 
+1. Carnes y verduras. 
+2. Todo tipo de licores. 
+3. Citricos y patatas. 
+4. Arroz, verdura y patatas. 
+5. Quesos fermentados, chocolate y platano.
